@@ -59,6 +59,7 @@ Em breve concluindo o **2º semestre** do curso de **Análise e Desenvolvimento 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" title="VS Code" />
   </a>
 </div>
+
 ---
 
 ## 📂 Projeto em Destaque
