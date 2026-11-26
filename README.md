@@ -9,7 +9,7 @@
 
 ![Curso](https://img.shields.io/badge/ADS-UNASP_SP-001f3f?style=for-the-badge&labelColor=dbe64c)
 ![Objetivo](https://img.shields.io/badge/Jovem_Aprendiz_%7C_Est%C3%A1gio-dbe64c?style=for-the-badge&labelColor=001f3f)
-![Idioma](https://img.shields.io/badge/English-Advanced-f8f7f2?style=for-the-badge&labelColor=2e5a44)
+![Idioma](https://img.shields.io/badge/English-f8f7f2?style=for-the-badge&labelColor=2e5a44)
 
 </div>
 
