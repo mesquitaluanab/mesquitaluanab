@@ -7,7 +7,7 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas (UNASP SP • 2026–2028)
 
-![Curso](https://img.shields.io/badge/ADS-UNASP_SP-001f3f?style=for-the-badge&labelColor=dbe64c)
+![Curso](https://img.shields.io/badge/ADS-UNASP_SP-001f3f?style=for-the-badge&labelColor=00804c)
 ![Objetivo](https://img.shields.io/badge/Jovem_Aprendiz_%7C_Est%C3%A1gio-dbe64c?style=for-the-badge&labelColor=001f3f)
 ![Idioma](https://img.shields.io/badge/English-f8f7f2?style=for-the-badge&labelColor=2e5a44)
 
@@ -30,15 +30,35 @@ Em breve concluindo o **2º semestre** do curso de **Análise e Desenvolvimento 
 
 ## 🛠️ Ferramentas & O que estou praticando
 
-<p>
-  <img src="https://img.shields.io/badge/Java-dbe64c?style=flat-square&logo=openjdk&logoColor=001f3f&labelColor=001f3f" alt="Java">
-  <img src="https://img.shields.io/badge/SQL_%26_BI-f8f7f2?style=flat-square&labelColor=2e5a44&color=2e5a44" alt="SQL e BI">
-  <img src="https://img.shields.io/badge/Front--end-dbe64c?style=flat-square&labelColor=001f3f" alt="Front-end">
-  <img src="https://img.shields.io/badge/Excel-f8f7f2?style=flat-square&labelColor=001f3f&logoColor=dbe64c" alt="Excel">
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-dbe64c?style=flat-square&logo=git&logoColor=001f3f&labelColor=001f3f" alt="Git e GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-f8f7f2?style=flat-square&logo=visualstudiocode&logoColor=dbe64c&labelColor=001f3f" alt="VS Code">
-</p>
-
+<div align="center">
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/pt-br/sql/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" height="36" alt="SQL e BI" title="SQL & BI" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5 / Front-end" title="Front-end (HTML5)" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3 / Front-end" title="Front-end (CSS3)" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/github/f8f7f2" width="36" height="36" alt="GitHub" title="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" title="VS Code" />
+  </a>
+</div>
 ---
 
 ## 📂 Projeto em Destaque
